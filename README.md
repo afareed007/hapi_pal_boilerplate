@@ -1,9 +1,8 @@
 # Quick Start
 
 ```sh
-npx hpal new my-project
-cd ./my-project
 npm install
+npm run start
 ```   
     
 # Boilerplate Documentation
